@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi. I'm Manuel Arias
 
 I'm an Electronic engineer with a special taste for programming, especially microcontrollers, embedded systems and digital systems.
